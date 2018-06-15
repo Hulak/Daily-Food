@@ -1,0 +1,6 @@
+framework module Pods_Daily_Food {
+  umbrella header "Pods-Daily Food-umbrella.h"
+
+  export *
+  module * { export * }
+}

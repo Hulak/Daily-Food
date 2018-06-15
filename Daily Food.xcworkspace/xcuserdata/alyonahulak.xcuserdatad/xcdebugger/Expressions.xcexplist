@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.displayResultWithTicket(ticket:finishedWithObject:error:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "row[countOfColumns]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
